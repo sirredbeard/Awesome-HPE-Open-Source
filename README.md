@@ -7,7 +7,7 @@
 
 * [Determined AI](https://github.com/determined-ai/determined) - Determined is an open-source deep learning training platform that makes building models fast and easy. [Website](https://www.determined.ai/) / [Slack](https://join.slack.com/t/determined-community/shared_invite/zt-cnj7802v-KcVbaUrIzQOwmkmY7gP0Ew) / [Documentation](https://docs.determined.ai/latest/)
 
-* [Grommet](https://github.com/grommet/grommet) - Grommet helps you create responsive and accessible mobile-first projects for the web with an easy-to-use, react-based component library that is part design system and part development framework. [Website](https://v2.grommet.io/) [Slack](https://grommet.slack.com/)
+* [Grommet](https://github.com/grommet/grommet) - Grommet helps you create responsive and accessible mobile-first projects for the web with an easy-to-use, react-based component library that is part design system and part development framework. [Website](https://v2.grommet.io/) / [Slack](https://grommet.slack.com/)
 
 * [KubeDirector](https://github.com/bluek8s/kubedirector) - KubeDirector is an open source Kubernetes “custom controller” that simplifies implementing stateful scaleout application clusters on Kubernetes. [Website](https://kubedirector.io/)
 
