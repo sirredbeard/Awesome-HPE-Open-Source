@@ -3,9 +3,9 @@
 
 ## Open Source Projects at HPE
 
-* [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a programming language designed for productive parallel computing on large-scale systems. [Website](https://chapel-lang.org/) [Discourse](https://chapel.discourse.group/) [Documentation](https://chapel-lang.org/docs/main/)
+* [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a programming language designed for productive parallel computing on large-scale systems. [Website](https://chapel-lang.org/) [Discourse](https://chapel.discourse.group/) / [Documentation](https://chapel-lang.org/docs/main/)
 
-* [Determined AI](https://github.com/determined-ai/determined) - Determined is an open-source deep learning training platform that makes building models fast and easy. [Website](https://www.determined.ai/) [Slack](https://join.slack.com/t/determined-community/shared_invite/zt-cnj7802v-KcVbaUrIzQOwmkmY7gP0Ew) [Documentation](https://docs.determined.ai/latest/)
+* [Determined AI](https://github.com/determined-ai/determined) - Determined is an open-source deep learning training platform that makes building models fast and easy. [Website](https://www.determined.ai/) / [Slack](https://join.slack.com/t/determined-community/shared_invite/zt-cnj7802v-KcVbaUrIzQOwmkmY7gP0Ew) / [Documentation](https://docs.determined.ai/latest/)
 
 * [Grommet](https://github.com/grommet/grommet) - Grommet helps you create responsive and accessible mobile-first projects for the web with an easy-to-use, react-based component library that is part design system and part development framework. [Website](https://v2.grommet.io/) [Slack](https://grommet.slack.com/)
 
@@ -24,7 +24,7 @@
 ## Additional Resources
 
 * [HPE Open Source](https://developer.hpe.com/opensource)
-* [HPE DEV community](https://developer.hpe.com/) [Slack](https://slack.hpedev.io/)
+* [HPE DEV community](https://developer.hpe.com/) / [Slack](https://slack.hpedev.io/)
 * [HPE GitHub](https://github.com/hewlettpackard/)
 
 All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).
