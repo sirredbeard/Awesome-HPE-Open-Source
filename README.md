@@ -3,7 +3,7 @@
 
 ## Open Source Projects at HPE
 
-* [Chapel](https://github.com/chapel-lang/chapel) = Chapel is a programming language designed for productive parallel computing on large-scale systems. [Website](https://chapel-lang.org/) [Discourse](https://chapel.discourse.group/) [Documentation](https://chapel-lang.org/docs/main/)
+* [Chapel](https://github.com/chapel-lang/chapel) - Chapel is a programming language designed for productive parallel computing on large-scale systems. [Website](https://chapel-lang.org/) [Discourse](https://chapel.discourse.group/) [Documentation](https://chapel-lang.org/docs/main/)
 
 * [Determined AI](https://github.com/determined-ai/determined) - Determined is an open-source deep learning training platform that makes building models fast and easy. [Website](https://www.determined.ai/) [Slack](https://join.slack.com/t/determined-community/shared_invite/zt-cnj7802v-KcVbaUrIzQOwmkmY7gP0Ew) [Documentation](https://docs.determined.ai/latest/)
 
@@ -11,7 +11,7 @@
 
 * [KubeDirector](https://github.com/bluek8s/kubedirector) - KubeDirector is an open source Kubernetes “custom controller” that simplifies implementing stateful scaleout application clusters on Kubernetes. [Website](https://kubedirector.io/)
 
-* [Pachyderm](https://github.com/pachyderm/pachyderm) - Pachyderm is cost-effective at scale, enabling data engineering teams to automate complex pipelines with sophisticated data transformations across any type of data. [Website](https://www.pachyderm.com/)
+* [Pachyderm](https://github.com/pachyderm/pachyderm) - Pachyderm enables data engineering teams to automate complex pipelines with sophisticated data transformations across any type of data. [Website](https://www.pachyderm.com/)
 
 * [SmartSim](https://github.com/CrayLabs/SmartSim) - SmartSim is a software framework that facilitates the convergence of numerical simulations and AI workloads on heterogeneous architectures. [Documentation](https://www.craylabs.org/docs/index.html)
 
