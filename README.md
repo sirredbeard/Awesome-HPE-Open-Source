@@ -33,6 +33,9 @@
 
 * **[Spire](https://github.com/spiffe/spire)** - SPIRE is an open-source system that implements the SPIFFE specification in a wide variety of environments. A graduate project of the CNCF.
 
+* **[Topology](https://github.com/HPENetworking/topology)** - Topology is a modular ramework for building and testing network topologies, with support for pytest.
+    * [Documentation](https://topology.readthedocs.io/)
+
 ## Additional Resources
 
 * **[HPE Open Source](https://developer.hpe.com/opensource)**
