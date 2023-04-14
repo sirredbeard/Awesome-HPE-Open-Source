@@ -1,4 +1,4 @@
-# Awesome-HPE
+# Awesome HPE Open Source
  An [Awesome list](https://github.com/sindresorhus/awesome) of open source projects at HPE
 
 ## Open Source Projects at HPE
