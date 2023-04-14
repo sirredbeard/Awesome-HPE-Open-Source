@@ -36,11 +36,21 @@
 * **[Topology](https://github.com/HPENetworking/topology)** - Topology is a modular ramework for building and testing network topologies, with support for pytest.
     * [Documentation](https://topology.readthedocs.io/)
 
-## Additional Resources
+
+## Additional HPE Open Source GitHub Orgs
+
+* **[HPE](https://github.com/hewlettpackard/)**
+* **[Aruba](https://github.com/aruba)**
+* **[Fabric Attached Memory](https://github.com/fabricattachedmemory)**
+* **[HPE Networking](https://github.com/hpenetworking)**
+* **[HPE Nimble Storage](https://github.com/nimblestorage)**
+* **[HPE Storage](https://github.com/hpe-storage)**
+
+## More Resources
 
 * **[HPE Open Source](https://developer.hpe.com/opensource)**
 * **[HPE DEV community](https://developer.hpe.com/)**
     * [Slack](https://slack.hpedev.io/)
-* **[HPE GitHub](https://github.com/hewlettpackard/)**
+
 
 *All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).*
