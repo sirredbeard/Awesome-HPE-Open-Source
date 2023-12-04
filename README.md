@@ -1,5 +1,12 @@
-# Awesome HPE Open Source
- An [Awesome list](https://github.com/sindresorhus/awesome) of open source projects at HPE. <a href="https://awesome.re"><img align="right" src="https://awesome.re/badge.svg"></a>
+# Awesome HPE Open Source <a href="https://awesome.re"><img align="right" src="https://awesome.re/badge.svg"></a>
+
+An [Awesome list](https://github.com/sindresorhus/awesome) of open source projects at HPE. 
+
+## Contents
+
+* [Open Source Projects at HPE](#open-source-projects-at-hpe)
+* [Additional HPE Open Source GitHub Orgs](#additional-hpe-open-source-github-orgs)
+* [More HPE Resources](#more-hpe-resources)
 
 ## Open Source Projects at HPE
 
@@ -46,7 +53,7 @@
 * **[HPE Nimble Storage](https://github.com/nimblestorage)**
 * **[HPE Storage](https://github.com/hpe-storage)**
 
-## More Resources
+## More HPE Resources
 
 * **[HPE Open Source](https://developer.hpe.com/opensource)**
 * **[HPE DEV community](https://developer.hpe.com/)**
