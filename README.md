@@ -53,4 +53,4 @@
     * [Slack](https://slack.hpedev.io/)
 
 
-*All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).*
+*All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).* 
