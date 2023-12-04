@@ -60,4 +60,4 @@ An [Awesome list](https://github.com/sindresorhus/awesome) of open source projec
     - [Slack](https://slack.hpedev.io/)
 
 
--All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).- 
+All trademarks are trademarks of HPE or the Linux Foundation/Cloud Native Computing Foundation (CNCF).
